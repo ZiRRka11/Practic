@@ -1,0 +1,14 @@
+Z:\RiderProjects\UP\Zadanie5 2.2\bin\Debug\net7.0\Zadanie5 2.2.exe
+Z:\RiderProjects\UP\Zadanie5 2.2\bin\Debug\net7.0\Zadanie5 2.2.deps.json
+Z:\RiderProjects\UP\Zadanie5 2.2\bin\Debug\net7.0\Zadanie5 2.2.runtimeconfig.json
+Z:\RiderProjects\UP\Zadanie5 2.2\bin\Debug\net7.0\Zadanie5 2.2.dll
+Z:\RiderProjects\UP\Zadanie5 2.2\bin\Debug\net7.0\Zadanie5 2.2.pdb
+Z:\RiderProjects\UP\Zadanie5 2.2\obj\Debug\net7.0\Zadanie5 2.2.GeneratedMSBuildEditorConfig.editorconfig
+Z:\RiderProjects\UP\Zadanie5 2.2\obj\Debug\net7.0\Zadanie5 2.2.AssemblyInfoInputs.cache
+Z:\RiderProjects\UP\Zadanie5 2.2\obj\Debug\net7.0\Zadanie5 2.2.AssemblyInfo.cs
+Z:\RiderProjects\UP\Zadanie5 2.2\obj\Debug\net7.0\Zadanie5 2.2.csproj.CoreCompileInputs.cache
+Z:\RiderProjects\UP\Zadanie5 2.2\obj\Debug\net7.0\Zadanie5 2.2.dll
+Z:\RiderProjects\UP\Zadanie5 2.2\obj\Debug\net7.0\refint\Zadanie5 2.2.dll
+Z:\RiderProjects\UP\Zadanie5 2.2\obj\Debug\net7.0\Zadanie5 2.2.pdb
+Z:\RiderProjects\UP\Zadanie5 2.2\obj\Debug\net7.0\Zadanie5 2.2.genruntimeconfig.cache
+Z:\RiderProjects\UP\Zadanie5 2.2\obj\Debug\net7.0\ref\Zadanie5 2.2.dll

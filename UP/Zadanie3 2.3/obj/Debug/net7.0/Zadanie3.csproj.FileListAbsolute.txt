@@ -1,0 +1,4 @@
+C:\Users\gr624_fease\RiderProjects\UP2.3\Zadanie3\obj\Debug\net7.0\Zadanie3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gr624_fease\RiderProjects\UP2.3\Zadanie3\obj\Debug\net7.0\Zadanie3.AssemblyInfoInputs.cache
+C:\Users\gr624_fease\RiderProjects\UP2.3\Zadanie3\obj\Debug\net7.0\Zadanie3.AssemblyInfo.cs
+C:\Users\gr624_fease\RiderProjects\UP2.3\Zadanie3\obj\Debug\net7.0\Zadanie3.csproj.CoreCompileInputs.cache

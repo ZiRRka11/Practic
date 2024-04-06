@@ -1,0 +1,14 @@
+Z:\RiderProjects\UP\Rome\obj\Debug\net7.0\Rome.GeneratedMSBuildEditorConfig.editorconfig
+Z:\RiderProjects\UP\Rome\obj\Debug\net7.0\Rome.AssemblyInfoInputs.cache
+Z:\RiderProjects\UP\Rome\obj\Debug\net7.0\Rome.AssemblyInfo.cs
+Z:\RiderProjects\UP\Rome\obj\Debug\net7.0\Rome.csproj.CoreCompileInputs.cache
+Z:\RiderProjects\UP\Rome\bin\Debug\net7.0\Rome.exe
+Z:\RiderProjects\UP\Rome\bin\Debug\net7.0\Rome.deps.json
+Z:\RiderProjects\UP\Rome\bin\Debug\net7.0\Rome.runtimeconfig.json
+Z:\RiderProjects\UP\Rome\bin\Debug\net7.0\Rome.dll
+Z:\RiderProjects\UP\Rome\bin\Debug\net7.0\Rome.pdb
+Z:\RiderProjects\UP\Rome\obj\Debug\net7.0\Rome.dll
+Z:\RiderProjects\UP\Rome\obj\Debug\net7.0\refint\Rome.dll
+Z:\RiderProjects\UP\Rome\obj\Debug\net7.0\Rome.pdb
+Z:\RiderProjects\UP\Rome\obj\Debug\net7.0\Rome.genruntimeconfig.cache
+Z:\RiderProjects\UP\Rome\obj\Debug\net7.0\ref\Rome.dll
