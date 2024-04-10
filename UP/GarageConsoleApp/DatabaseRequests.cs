@@ -84,9 +84,9 @@ public static class DatabaseRequests
     /// Метод AddDriverRightsCategoryQuery
     /// отправляет запрос в БД на добавление категории прав водителю
     /// </summary>
-    public static void AddDriverRightsCategoryQuery(int driver, int rightsCategory)
+    public static void AddDriverRightsCategoryQuery(int id_driver, int id_rights_category)
     {
-        var querySql = $"INSERT INTO driver_rights_category(id_driver, id_rights_category) VALUES ({driver}, {rightsCategory})";
+        var querySql = $"INSERT INTO driver_rights_category(id_driver, id_rights_category) VALUES ({id_driver}, {id_rights_category})";
         using var cmd = new NpgsqlCommand(querySql, DatabaseService.GetSqlConnection());
         cmd.ExecuteNonQuery();
     }
@@ -96,7 +96,7 @@ public static class DatabaseRequests
     /// отправляет запрос в БД на получение категорий водителей
     /// выводит в консоль информацию о категориях прав водителей
     /// </summary>
-    public static void GetDriverRightsCategoryQuery(int driver)
+    public static void GetDriverRightsCategoryQuery(int idDriver, int driver)
     {
         var querySql = "SELECT dr.first_name, dr.last_name, rc.name " +
                        "FROM driver_rights_category " +
@@ -112,7 +112,7 @@ public static class DatabaseRequests
         }
     }
 /// <summary>
-/// Просмотр машин
+/// Просмотр списка машин
 /// </summary>
 /// <param name="car"></param>
     public static void ViewCars()
@@ -156,9 +156,9 @@ public static class DatabaseRequests
      /// Добавление маршрута
      /// </summary>
      /// <param name="id_itinerary"></param>
-    public static void AddingItinerary(int id, string name)
+    public static void AddingItinerary(string name)
     {
-        var querySql = $"INSERT INTO itinerary(name) VALUES('{id}','{name}') ";
+        var querySql = $"INSERT INTO itinerary(name) VALUES('{name}') ";
         using var cmd = new NpgsqlCommand(querySql, DatabaseService.GetSqlConnection());
         cmd.ExecuteNonQuery();
     }

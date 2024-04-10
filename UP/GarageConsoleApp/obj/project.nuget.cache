@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "hUpb9BfLvrJerh9Yr4gPvkGepp+BPr0WANPGdOL1EBHbF8aG++o/GZLK3WO+k3NSf8g/pVRJEmDvZ2OlXuvj4g==",
+  "dgSpecHash": "xpBiAN7RHfXW/LbbN8Wo1SmMC1j27vHGRjEYNYhSaL5nVN1T00JVzXSB5T7g7F/bV6RGXkWpls+auZY2bB4NNQ==",
   "success": true,
   "projectFilePath": "Z:\\RiderProjects\\UP\\GarageConsoleApp\\GarageConsoleApp.csproj",
   "expectedPackageFiles": [
@@ -18,12 +18,7 @@
     "C:\\Users\\gr624_fease\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\microsoft.extensions.options.7.0.0.nupkg.sha512",
     "C:\\Users\\gr624_fease\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
     "C:\\Users\\gr624_fease\\.nuget\\packages\\npgsql\\7.0.1\\npgsql.7.0.1.nupkg.sha512",
-    "C:\\Users\\gr624_fease\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\7.0.1\\npgsql.entityframeworkcore.postgresql.7.0.1.nupkg.sha512",
-    "C:\\Users\\gr624_fease\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
-    "C:\\Users\\gr624_fease\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.24\\microsoft.netcore.app.ref.6.0.24.nupkg.sha512",
-    "C:\\Users\\gr624_fease\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.24\\microsoft.windowsdesktop.app.ref.6.0.24.nupkg.sha512",
-    "C:\\Users\\gr624_fease\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.24\\microsoft.aspnetcore.app.ref.6.0.24.nupkg.sha512",
-    "C:\\Users\\gr624_fease\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.24\\microsoft.netcore.app.host.win-x64.6.0.24.nupkg.sha512"
+    "C:\\Users\\gr624_fease\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\7.0.1\\npgsql.entityframeworkcore.postgresql.7.0.1.nupkg.sha512"
   ],
   "logs": []
 }
